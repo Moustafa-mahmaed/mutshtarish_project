@@ -1,0 +1,6 @@
+{
+  "SuccessMsg": "Un produit non français ",
+  "RejectMsg": "Produit français ", 
+    "tapToScan":"Appuyez pour numériser",
+    "ScannedQRCode":"Numéro de code barre:"
+}

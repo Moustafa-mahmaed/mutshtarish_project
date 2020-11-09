@@ -1,0 +1,9 @@
+{
+  "SuccessMsg": "A non-French product",
+  "RejectMsg": "French product",
+    "tapToScan":"Tap To Scan",
+    "ScannedQRCode":"Barcode Number:",
+    "country":{
+      "eg":"egypt"
+    }
+}
